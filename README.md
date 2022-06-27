@@ -21,3 +21,7 @@ Reunión de Coordinación Misional - Encuentro breve e informal ([Video de 4 min
 
 ## Metas de la Estaca
 [Link](https://docs.google.com/spreadsheets/d/1LyAFD3HgJcY0_fgcCQMdHjkzTatWoyyTI1BBsQiI3wE/edit?usp=sharing)
+
+## Redes Sociales:
+
+[Facebook](https://m.facebook.com/JesucristoenLitoral)
