@@ -7,6 +7,8 @@
 
 [Documento Enfoque Area](https://github.com/estacalitoral/Enfoque-en-el-Templo/blob/main/Enfoque2021-SPA.pdf)
 
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
 <a href="https://github.com/estacalitoral/Enfoque-en-el-Templo/blob/main/Enfoque2021-SPA.pdf">example</a>
 
 ## Compartir el Evangelio
