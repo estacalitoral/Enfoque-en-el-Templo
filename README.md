@@ -3,6 +3,9 @@
 - [ ] 29 Junio Reunión de Sumo Consejo (miembros del Sumo Consejo de Estaca)
 - [ ] 13 Agosto Bautismos de Conversos de Estaca (hora y lugar a confirmar)
 
+## El Enfoque de Nuestra Area:
+
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
 ## Compartir el Evangelio
 
