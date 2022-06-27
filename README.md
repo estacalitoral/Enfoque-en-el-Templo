@@ -1,4 +1,6 @@
 # Enfoque en el Templo
+![picture alt](https://github.com/estacalitoral/Enfoque-en-el-Templo/blob/main/EnfoqueArea_small.png)
+
 ### Anuncios:
 - [ ] 29 Junio Reunión de Sumo Consejo (miembros del Sumo Consejo de Estaca)
 - [ ] 13 Agosto Bautismos de Conversos de Estaca (hora y lugar a confirmar)
@@ -6,10 +8,6 @@
 ## El Enfoque de Nuestra Area:
 
 [Documento Enfoque Area](https://github.com/estacalitoral/Enfoque-en-el-Templo/blob/main/Enfoque2021-SPA.pdf)
-
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
-
-<a href="https://github.com/estacalitoral/Enfoque-en-el-Templo/blob/main/Enfoque2021-SPA.pdf">example</a>
 
 ## Compartir el Evangelio
 
